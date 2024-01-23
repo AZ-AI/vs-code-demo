@@ -77,6 +77,7 @@ This section describes VS Code uses that are agnostic to the file type being edi
   ![Alt text](assets/pictures/git-gui-based-branch-management.jpg)
   ![Alt text](assets/pictures/git-gui-based-repo-management.jpg)
   ![Alt text](assets/pictures/git-gui-commit-history.jpg)
+  ![Alt text](assets/pictures/git-gui-open-pr.jpg)
 
 ### File-Agnostic Links
 
