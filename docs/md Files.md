@@ -23,6 +23,7 @@ This section describes VS Code uses that are with Markdown files.
 - Automatic-list continuation with new lines
 - Embedding of pictures (drag from Explorer view, hold `shift`, release drag)
 - Auto-complete suggestions when linking files in the workspace
+
 ![Alt text](../pictures/md/md-auto-complete-when-linking-files.jpg)
 
 ## `.md`-Files Commands

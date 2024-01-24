@@ -17,14 +17,19 @@ This document describes VS Code uses with our Snowflake data lake.
 - Object Explorer including Databases, drill down to metadata, data preview, source SQL
 
 ![Alt text](../pictures/snowflake/snowflake-object-explorer.jpg)
+
 ![Alt text](../pictures/snowflake/snowflake-object-explorer-metadata-drill-down.jpg)
+
 ![Alt text](../pictures/snowflake/snowflake-object-explorer-data-preview.jpg)
+
 ![Alt text](../pictures/snowflake/snowflake-object-explorer-source-sql.jpg)
 
 - Query History including click to view results and click to copy
 
 ![Alt text](../pictures/snowflake/snowflake-query-history.jpg)
+
 ![Alt text](../pictures/snowflake/snowflake-query-history-view-old-results.jpg)
+
 ![Alt text](../pictures/snowflake/snowflake-query-history-copy-sql-to-clipboard.jpg)
 
 - Query Editor
@@ -39,12 +44,17 @@ This document describes VS Code uses with our Snowflake data lake.
   - Linting hints and quick fixes (driven by `sqlfluff`)
 
   ![Alt text](../pictures/snowflake/snowflake-query-editor-linting-hints.jpg)
+
   ![Alt text](../pictures/snowflake/snowflake-query-editor-links-to-sqlfluff-rules.jpg)
+
   ![Alt text](../pictures/snowflake/snowflake-query-editor-quick-fix-suggestions.jpg)
   
   - Execute queries (`command+enter`) yields multiple views after execution including information pane, ability to save results locally and opening results in new tab
+
   ![Alt text](../pictures/snowflake/snowflake-query-editor-executed-results.jpg)
+
   ![Alt text](../pictures/snowflake/snowflake-query-editor-locally-saved-results.jpg)
+
   ![Alt text](../pictures/snowflake/snowflake-query-editor-view-results-in-own-tab-with-sort.jpg)
 
 ## Commands

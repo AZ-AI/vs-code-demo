@@ -66,6 +66,7 @@ This document describes VS Code uses that are agnostic to the file type being ed
 - Huge selection of extensions (`command+shift+x`)
 
 ![Alt text](../pictures/file-agnostic/extensions-installed.jpg)
+
 ![Alt text](../pictures/file-agnostic/extensions-recommended.jpg)
 
 ## File-Agnostic Extensions
@@ -88,10 +89,15 @@ This document describes VS Code uses that are agnostic to the file type being ed
   - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
   
   ![Alt text](../pictures/file-agnostic/git-gui-based-branch-management.jpg)
+
   ![Alt text](../pictures/file-agnostic/git-gui-based-repo-management.jpg)
+
   ![Alt text](../pictures/file-agnostic/git-gui-commit-history.jpg)
+
   ![Alt text](../pictures/file-agnostic/git-gui-pr-management.jpg)
+
   ![Alt text](../pictures/file-agnostic/git-gui-version-compare.jpg)
+
 - [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim)
 
 ## File-Agnostic Links
