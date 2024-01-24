@@ -33,6 +33,7 @@ This document describes VS Code uses that are agnostic to the file type being ed
 - Problems (`command+shift+m`) and quick-fix suggestions (`command + .`)
 
 ![Alt text](../pictures/file-agnostic/problems-view.jpg)
+
 ![Alt text](../pictures/file-agnostic/quickfix-context.jpg)
 
 - Toggle Comment multiline (`command /`)
