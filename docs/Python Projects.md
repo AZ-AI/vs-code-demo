@@ -24,3 +24,7 @@ This section describes VS Code uses with `python` projects.
 - jupyter slideshow
 - autodocstring
 - intellicode-api-usage-examples
+
+## Unexplored Extensions
+
+- Python Poetry

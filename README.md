@@ -17,39 +17,39 @@
 
 ## File Agnostic
 
-To explore features that are agnostic to the kind of file you are working on, navigate to the [File Agnostic.md file](<File Agnostic.md>).
+To explore features that are agnostic to the kind of file you are working on, navigate to the [File Agnostic.md file](<docs/File Agnostic.md>).
 
 ## Snowflake
 
-To explore features that are useful for working with our Snowflake connection, navigate to the [Snowflake.md file](<Snowflake.md>).
+To explore features that are useful for working with our Snowflake connection, navigate to the [Snowflake.md file](<docs/Snowflake.md>).
 
 ## Python Projects
 
-To explore features that are useful for working with `python` projects, navigate to the [Python Projects.md file](<Python Projects.md>).
+To explore features that are useful for working with `python` projects, navigate to the [Python Projects.md file](<docs/Python Projects.md>).
 
 ## Dataiku
 
-To explore features that are useful for working with our Dataiku platform, navigate to the [Dataiku.md file](<Dataiku.md>).
+To explore features that are useful for working with our Dataiku platform, navigate to the [Dataiku.md file](<docs/Dataiku.md>).
 
 ## `.csv` Files
 
-To explore features that are useful for working with `.csv` files, navigate to the [csv Files.md file](<csv Files.md>).
+To explore features that are useful for working with `.csv` files, navigate to the [csv Files.md file](<docs/csv Files.md>).
 
 ## `.json` Files
 
-To explore features that are useful for working with `.json` files, navigate to the [json Files.md file](<json Files.md>).
+To explore features that are useful for working with `.json` files, navigate to the [json Files.md file](<docs/json Files.md>).
 
 ## `.md` Files
 
-To explore features that are useful for working with `.md` (Markdown) files, navigate to the [md Files.md file](<md Files.md>).
+To explore features that are useful for working with `.md` (Markdown) files, navigate to the [md Files.md file](<docs/md Files.md>).
 
 ## `draw.io` Files
 
-To explore features that are useful for working with `draw.io` files, navigate to the [drawio Files.md file](<drawio Files.md>).
+To explore features that are useful for working with `draw.io` files, navigate to the [drawio Files.md file](<docs/drawio Files.md>).
 
 ## `.sh` Files
 
-To explore features that are useful for working with `.sh` (Shell) files, navigate to the [sh Files.md file](<sh Files.md>).
+To explore features that are useful for working with `.sh` (Shell) files, navigate to the [sh Files.md file](<docs/sh Files.md>).
 
 ## Other Extensions Not Described in Detail Here
 

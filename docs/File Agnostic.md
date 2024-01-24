@@ -12,71 +12,71 @@ This document describes VS Code uses that are agnostic to the file type being ed
   - Wrap selected text in opening-and-closing punctuation
 - Search entire directory, including auto-complete and recently opened suggestions (`command + shift + f`)
 
-![Alt text](assets/pictures/search-entire-directory.jpg)
+![Alt text](pictures/search-entire-directory.jpg)
 
 - Replace in entire directory (`command + shift + h`)
 - Highlight all instances (click on a token)
 
-![Alt text](assets/pictures/highlight-all-instances.jpg)
+![Alt text](pictures/highlight-all-instances.jpg)
 
 - Select next instance (`command d`)
 - Open file in directory (`command p`)
 - Multi-cursor (`alt + click` or `alt + command + down/up arrow`)
 
-![Alt text](assets/pictures/multicursor.jpg)
+![Alt text](pictures/multicursor.jpg)
 
 - Themes including light, dark, and colorblind-friendly (`command k` then `command t`)
 
-![Alt text](assets/pictures/themes-light-and-dark.jpg)
-![Alt text](assets/pictures/themes-light-example.jpg)
+![Alt text](pictures/themes-light-and-dark.jpg)
+![Alt text](pictures/themes-light-example.jpg)
 
 - Problems (`command+shift+m`) and quick-fix suggestions (`command + .`)
 
-![Alt text](assets/pictures/problems-view.jpg)
-![Alt text](assets/pictures/quickfix-context.jpg)
+![Alt text](pictures/problems-view.jpg)
+![Alt text](pictures/quickfix-context.jpg)
 
 - Toggle Comment multiline (`command /`)
 - Explorer view (`command+shift+e`)
   - Open editors
 
-  ![Alt text](assets/pictures/explorer-open-editors.jpg)
+  ![Alt text](pictures/explorer-open-editors.jpg)
   
   - Workspace file structure
   
-  ![Alt text](assets/pictures/explorer-workspace-file-structure.jpg)
+  ![Alt text](pictures/explorer-workspace-file-structure.jpg)
   
   - Outline
   
-  ![Alt text](assets/pictures/explorer-outline.jpg)
+  ![Alt text](pictures/explorer-outline.jpg)
   
   - Timeline
   
-  ![Alt text](assets/pictures/explorer-timeline.jpg)
+  ![Alt text](pictures/explorer-timeline.jpg)
 
 - Section collapsing
 
-![Alt text](assets/pictures/collapsing-sections-opened.jpg)
-![Alt text](assets/pictures/section-collapsing-collapsed.jpg)
+![Alt text](pictures/collapsing-sections-opened.jpg)
+![Alt text](pictures/section-collapsing-collapsed.jpg)
 
 - Terminal integration including multiple terminal groups and panes
 
-![Alt text](assets/pictures/terminal-integration.jpg)
+![Alt text](pictures/terminal-integration.jpg)
 
 - Huge selection of extensions (`command+shift+x`)
 
-![Alt text](assets/pictures/extensions-installed.jpg)
-![Alt text](assets/pictures/extensions-recommended.jpg)
+![Alt text](pictures/extensions-installed.jpg)
+![Alt text](pictures/extensions-recommended.jpg)
 
 ## File-Agnostic Extensions
 
 - Code Spell Checker
   - Lints when a word is not in the dictionary:
   
-  ![Alt text](assets/pictures/code-spell-check-linter.jpg)
+  ![Alt text](pictures/code-spell-check-linter.jpg)
   
   - Allows you to fix or add custom words to your dictionary with quick-fix suggestions
   
-  ![Alt text](assets/pictures/code-spell-check-quick-fix-suggestions.jpg)
+  ![Alt text](pictures/code-spell-check-quick-fix-suggestions.jpg)
   
   - Also available for several other languages including Swedish, German, and a special 'Medical Terminology' dictionary
 - Git including GUI-based repository management, branch management, commit history, pull-request management, version compare
@@ -86,11 +86,11 @@ This document describes VS Code uses that are agnostic to the file type being ed
   - [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
   - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
   
-  ![Alt text](assets/pictures/git-gui-based-branch-management.jpg)
-  ![Alt text](assets/pictures/git-gui-based-repo-management.jpg)
-  ![Alt text](assets/pictures/git-gui-commit-history.jpg)
-  ![Alt text](assets/pictures/git-gui-pr-management.jpg)
-  ![Alt text](assets/pictures/git-gui-version-compare.jpg)
+  ![Alt text](pictures/git-gui-based-branch-management.jpg)
+  ![Alt text](pictures/git-gui-based-repo-management.jpg)
+  ![Alt text](pictures/git-gui-commit-history.jpg)
+  ![Alt text](pictures/git-gui-pr-management.jpg)
+  ![Alt text](pictures/git-gui-version-compare.jpg)
 - [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim)
 
 ## File-Agnostic Links

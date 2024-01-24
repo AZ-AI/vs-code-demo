@@ -2,5 +2,6 @@
     "cSpell.words": [
         "Dataiku",
         "sqlfluff"
-    ]
+    ],
+    "sqlfluff.dialect": "snowflake"
 }
