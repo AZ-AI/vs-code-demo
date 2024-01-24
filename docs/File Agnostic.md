@@ -1,4 +1,4 @@
-# File Agnostic
+# File Agnostic here are some changes
 
 This document describes VS Code uses that are agnostic to the file type being edited.
 
@@ -19,8 +19,8 @@ This document describes VS Code uses that are agnostic to the file type being ed
 
 ![Alt text](../pictures/file-agnostic/highlight-all-instances.jpg)
 
-- Select next instance (`command d`)
-- Open file in directory (`command p`)
+- Select next instance (`option + d`)
+- Open file in directory (`command + p`)
 - Multi-cursor (`alt + click` or `alt + command + down/up arrow`)
 
 ![Alt text](../pictures/file-agnostic/multicursor.jpg)
