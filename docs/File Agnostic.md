@@ -37,6 +37,9 @@ This document describes VS Code uses that are agnostic to the file type being ed
 ![Alt text](../pictures/file-agnostic/quickfix-context.jpg)
 
 - Toggle Comment multiline (`command /`)
+
+![Alt text](../pictures/file-agnostic/multi-line-commenting.jpg)
+
 - Explorer view (`command+shift+e`)
   - Open editors
 
@@ -57,6 +60,7 @@ This document describes VS Code uses that are agnostic to the file type being ed
 - Section collapsing
 
 ![Alt text](../pictures/file-agnostic/collapsing-sections-opened.jpg)
+
 ![Alt text](../pictures/file-agnostic/section-collapsing-collapsed.jpg)
 
 - Terminal integration including multiple terminal groups and panes

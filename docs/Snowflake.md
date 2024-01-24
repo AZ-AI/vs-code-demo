@@ -12,8 +12,6 @@ This document describes VS Code uses with our Snowflake data lake.
 
 - Single Sign On
   
-![Alt text](../pictures/snowflake/snowflake-sso.jpg)
-
 - Object Explorer including Databases, drill down to metadata, data preview, source SQL
 
 ![Alt text](../pictures/snowflake/snowflake-object-explorer.jpg)
@@ -29,8 +27,6 @@ This document describes VS Code uses with our Snowflake data lake.
 ![Alt text](../pictures/snowflake/snowflake-query-history.jpg)
 
 ![Alt text](../pictures/snowflake/snowflake-query-history-view-old-results.jpg)
-
-![Alt text](../pictures/snowflake/snowflake-query-history-copy-sql-to-clipboard.jpg)
 
 - Query Editor
   - Syntax highlighting
