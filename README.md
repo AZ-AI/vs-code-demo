@@ -1,3 +1,7 @@
+# THIS REPOSITORY IS ARCHIVED
+
+Check the EMS org.
+
 # Demo of some Visual Studio Code (VS Code) Features
 
 **Note:** when keyboard shortcuts are provided, they are based on my current settings on a Mac, and may not be the default settings. You can customize your own according to your preference.
